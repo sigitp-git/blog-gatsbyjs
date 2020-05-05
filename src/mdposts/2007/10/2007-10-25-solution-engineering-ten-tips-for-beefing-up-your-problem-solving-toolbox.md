@@ -32,7 +32,7 @@ Pay at least as much attention to the solved state as is paid to the problem sta
 
 When solving a problem, we typically wish to do more than simply rid ourselves of some unacceptable situation. More often than not we are trying also to achieve some other, more desirable state of affairs. Theoretically speaking, we’re trying to move from the problem state to the solved state. We do so by traversing what is called “the solution path” (see Figure 1).
 
-![1](http://sigitp.files.wordpress.com/2007/10/problem_structure.gif) 
+![1](https://sigitp.files.wordpress.com/2007/10/problem_structure.gif) 
 
 _**Figure 1: The Solution Path**_
 
@@ -50,7 +50,7 @@ Intervening in complex organizations requires of us that we carefully think thro
 
 One way of examining the multi-dimensionality of our goals and objectives is to compare and identify any disparities between our perceptions (what we have) and our preferences (what we want). This comparison is shown in Figure 2.
 
-![goals_grid.gif](http://sigitp.files.wordpress.com/2007/10/goals_grid.gif)
+![goals_grid.gif](https://sigitp.files.wordpress.com/2007/10/goals_grid.gif)
 
 **_Figure 2 - The Goals Grid_**
 
@@ -103,7 +103,7 @@ Steps 4 and 5 are typically mutually exclusive; you do one or the other but not 
 
 A picture or model of the elements and relationships in a problem situation will help you to more quickly and more completely grasp the situation and figure out what to do about it.
 
-![work_and_work_control_system.gif](http://sigitp.files.wordpress.com/2007/10/work_and_work_control_system.gif)
+![work_and_work_control_system.gif](https://sigitp.files.wordpress.com/2007/10/work_and_work_control_system.gif)
 
 **_Figure 3: A General Purpose Work System_**
 
@@ -208,11 +208,11 @@ Some of the references cited in this article are contained in the list of books 
 
 **Links to Other Areas of This Web Site**
 
-- [Articles by Fred Nickols](http://home.att.net/%7Enickols/articles.htm)
-- [Distance Consulting Home Page](http://home.att.net/%7Enickols/distance.htm)
-- [Personal](http://home.att.net/%7Enickols/personal.html)
-- [Project History](http://home.att.net/%7Enickols/projects.htm)
-- [Resume](http://home.att.net/%7Enickols/resume.htm)
-- [Services](http://home.att.net/%7Enickols/services.html)
+- [Articles by Fred Nickols](https://home.att.net/%7Enickols/articles.htm)
+- [Distance Consulting Home Page](https://home.att.net/%7Enickols/distance.htm)
+- [Personal](https://home.att.net/%7Enickols/personal.html)
+- [Project History](https://home.att.net/%7Enickols/projects.htm)
+- [Resume](https://home.att.net/%7Enickols/resume.htm)
+- [Services](https://home.att.net/%7Enickols/services.html)
 
 **This page last updated on September 12, 2004**

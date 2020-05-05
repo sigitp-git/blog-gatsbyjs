@@ -13,19 +13,19 @@ Waktu SMP pun sering jalan dari Panghegar ke Ujung Berung karena angkot mahal, s
 
 Rumah-SD:
 
-![](https://sigitp.files.wordpress.com/2013/02/rumah-sd.png)
+![](httpss://sigitp.files.wordpress.com/2013/02/rumah-sd.png)
 
 Rumah-SMP:
 
-![](https://sigitp.files.wordpress.com/2013/02/ruma-smp.png)
+![](httpss://sigitp.files.wordpress.com/2013/02/ruma-smp.png)
 
 - Supermie dan Indomie itu mewah. Dulu paling makan Sarimi. Itupun jarang, pernah numpahin Sarimi waktu SD dimarahin habis-habisan saking mahalnya.
 
-![](https://sigitp.files.wordpress.com/2013/02/sarimi.jpg)
+![](httpss://sigitp.files.wordpress.com/2013/02/sarimi.jpg)
 
 - Nyetrika pake setrika arang, arangnya sering loncat-loncat karena meletup. Kalau loncat ke baju, bajunya bolong.
 
-![](https://sigitp.files.wordpress.com/2013/02/setrikarang.jpg)
+![](httpss://sigitp.files.wordpress.com/2013/02/setrikarang.jpg)
 
 - Jemur batre radio di atap. Harapannya batre nya ke isi lagi gak mesti beli. Kadang-kadang it works!
 
@@ -35,9 +35,9 @@ Rumah-SMP:
 
 - Ngadu muncang. Muncang A dan muncang B di taruh timpa-timpaan, terus dipalu dari atas, yang pecah muncangnya kalah. Sering main dengan tukang Ojek waktu SD di Pangaritan.
 
-![](https://sigitp.files.wordpress.com/2013/02/ngadumuncang.jpg)
+![](httpss://sigitp.files.wordpress.com/2013/02/ngadumuncang.jpg)
 
-![](https://sigitp.files.wordpress.com/2013/02/muncang.jpg)
+![](httpss://sigitp.files.wordpress.com/2013/02/muncang.jpg)
 
 - Ngala muncang di Garut. Main ke kuburan karena muncang banyak tumbuh di kuburan. Ngadu muncang dapet beli mah MAINSTREAM. Ngadu muncang meunang ngala di kuburan: EPIC!
 
@@ -53,25 +53,25 @@ gak pake lontong karena itu add on sales mahal euy,
 
 sate seorang dua tusuk, bumbunya paling penting karena bikin nasi enak.
 
-![](https://sigitp.files.wordpress.com/2013/02/sate.jpg)
+![](httpss://sigitp.files.wordpress.com/2013/02/sate.jpg)
 
 - Minum Orson pas lebaran di rumah nenek di Garut. Pas lebaran aja, itupun sebotol dibagi-bagi. Mahal itu Orson.
 
-![](https://sigitp.files.wordpress.com/2013/02/orson.jpg)
+![](httpss://sigitp.files.wordpress.com/2013/02/orson.jpg)
 
 - Lagi ee ada biawak keluar dari lubang WC waktu rumah di Garut (masih TK, SD sudah di Bandung).
 
-![](https://sigitp.files.wordpress.com/2013/02/biawak.jpg)
+![](httpss://sigitp.files.wordpress.com/2013/02/biawak.jpg)
 
 - Sampai kuliah tingkat 1 gak pernah pegang komputer. Ke rumah temen gw, Hilmi, gw disuruh matiin komputer, gak tau caranya :D gw colok langsung tuh tombol power, kemudian kang Hilmi datang dengan tampang kecewa, beliau gak berani komentar hehehe, sorry kang.
 
 - Basket itu olahraga orang gedongan. Sorry kalo gw gak pernah mau diajak main basket, gak bisa. Soalnya basket itu perlu ring, perlu lapang rata. Gak pernah nemu lapang begitu. Di SMA sih ada cuma anak-anak gaul doang yang ikutan basket. Kalau mengbal sih sering, di lapang kebo, kalo kebo nya gak lagi make, kita pake buat mengbal.
 
-![](https://sigitp.files.wordpress.com/2013/02/basket_03.jpg)
+![](httpss://sigitp.files.wordpress.com/2013/02/basket_03.jpg)
 
 - Ngala suluh. Boro-boro kompor minyak, di Garut dulu pake kompor halu. Dari tanah liat dibentuk kompor, pake tiupan dari bambu kalo mau masak biar apinya nyala. Suluh/kayu bakar nya ngala di kebon bareng sepupu dan aki, bawa golok dan karung. Suluh selalu ditumpuk dipinggir rumah.
 
-![](https://sigitp.files.wordpress.com/2013/02/mirun-seuneu.jpg)
+![](httpss://sigitp.files.wordpress.com/2013/02/mirun-seuneu.jpg)
 
 - Kompor minyak pake sumbu. Sering banget pake ini buat masak, kompor gas baru liat pas SMP-an. Gw ahlinya ganti sumbu kompor. Ada yang bisa juga?
 

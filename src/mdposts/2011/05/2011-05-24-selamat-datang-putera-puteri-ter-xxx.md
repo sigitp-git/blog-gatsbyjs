@@ -7,8 +7,8 @@ Selalu ada kejahilan dari para senior menyambut mahasiswa baru memasuki Gerbang 
 
 Yang dibawah ini kayaknya waktu angkatan 2002:
 
-![](https://sigitp.files.wordpress.com/2011/05/ma-itb-005.jpg)
+![](httpss://sigitp.files.wordpress.com/2011/05/ma-itb-005.jpg)
 
 Yang ini baru, waktu ITB narik biaya super mahal buat para mahasiswa baru, denger-denger setelah angkatan 02 loncat ke angkatan 45 alias 45 juta :p
 
-![](https://sigitp.files.wordpress.com/2011/05/selamat-datang-putra-putri-terkaya-bangsa-img_6937-preview.jpg)
+![](httpss://sigitp.files.wordpress.com/2011/05/selamat-datang-putra-putri-terkaya-bangsa-img_6937-preview.jpg)

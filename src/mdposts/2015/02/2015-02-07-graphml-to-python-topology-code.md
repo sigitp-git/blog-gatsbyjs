@@ -3,23 +3,23 @@ title: "GraphML to Python Topology Code"
 date: "2015-02-07"
 ---
 
-I just read this interesting [project](http://141.13.92.69/index.php/projects/auto-mininet) on a tool to convert GraphML topology into usable Python code to be simulated with Mininet and OpenFlow based virtual switches.
+I just read this interesting [project](https://141.13.92.69/index.php/projects/auto-mininet) on a tool to convert GraphML topology into usable Python code to be simulated with Mininet and OpenFlow based virtual switches.
 
 Very useful to mimic real world networks to be executed on Mininet without having to code the Python scripts from scratch.
 
-I did use 2 core vCPU, 3GB vRAM Ubuntu VM to load and simulate the DFN (from [http://topology-zoo.org/dataset.html](http://topology-zoo.org/dataset.html "http://topology-zoo.org/dataset.html")) network below (with OpenDayLight controller)
+I did use 2 core vCPU, 3GB vRAM Ubuntu VM to load and simulate the DFN (from [https://topology-zoo.org/dataset.html](https://topology-zoo.org/dataset.html "https://topology-zoo.org/dataset.html")) network below (with OpenDayLight controller)
 
-[![DFN](https://sigitp.files.wordpress.com/2015/02/dfn.png?w=256)](https://sigitp.files.wordpress.com/2015/02/dfn.png)
+[![DFN](httpss://sigitp.files.wordpress.com/2015/02/dfn.png?w=256)](httpss://sigitp.files.wordpress.com/2015/02/dfn.png)
 
-\[caption id="attachment\_1062" align="aligncenter" width="300"\][![OpenDayLight](https://sigitp.files.wordpress.com/2015/02/screen-shot-2015-02-05-at-3-50-19-pm.png?w=300)](https://sigitp.files.wordpress.com/2015/02/screen-shot-2015-02-05-at-3-50-19-pm.png) OpenDayLight\[/caption\]
+\[caption id="attachment\_1062" align="aligncenter" width="300"\][![OpenDayLight](httpss://sigitp.files.wordpress.com/2015/02/screen-shot-2015-02-05-at-3-50-19-pm.png?w=300)](httpss://sigitp.files.wordpress.com/2015/02/screen-shot-2015-02-05-at-3-50-19-pm.png) OpenDayLight\[/caption\]
 
-\[caption id="attachment\_1063" align="aligncenter" width="300"\][![OpenDayLight](https://sigitp.files.wordpress.com/2015/02/screen-shot-2015-02-05-at-3-50-50-pm.png?w=300)](https://sigitp.files.wordpress.com/2015/02/screen-shot-2015-02-05-at-3-50-50-pm.png) OpenDayLight\[/caption\]
+\[caption id="attachment\_1063" align="aligncenter" width="300"\][![OpenDayLight](httpss://sigitp.files.wordpress.com/2015/02/screen-shot-2015-02-05-at-3-50-50-pm.png?w=300)](httpss://sigitp.files.wordpress.com/2015/02/screen-shot-2015-02-05-at-3-50-50-pm.png) OpenDayLight\[/caption\]
 
 and the vCPU went 100% instantly. Seems I will need to upgrade my VM.
 
 Try it and have fun!
 
-References: 1. http://graphml.graphdrawing.org 2. http://141.13.92.69/index.php/projects/auto-mininet 3. http://topology-zoo.org/dataset.html
+References: 1. https://graphml.graphdrawing.org 2. https://141.13.92.69/index.php/projects/auto-mininet 3. https://topology-zoo.org/dataset.html
 
 Mininet command:
 

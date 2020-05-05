@@ -39,11 +39,11 @@ A typical chassis for M5 router is shown below (This is given for educational pu
 
 M5 Chassis Front Panel:
 
-![](http://www.tutorialsweb.com/images/networking-images/junipe3.jpg)
+![](https://www.tutorialsweb.com/images/networking-images/junipe3.jpg)
 
 M5 Chassis: Rear Panel:
 
-![](http://www.tutorialsweb.com/images/networking-images/junipe4.jpg)
+![](https://www.tutorialsweb.com/images/networking-images/junipe4.jpg)
 
 The rear panel of the M5 router is shown in the above figure. It contains a routing engine, forwarding engine, and power supplies. These will be discussed in the coming sections.
 
@@ -55,9 +55,9 @@ Router Chassis:
 
 Chassis is a rigid sheet metal, which contains all other router components. Please refer to the typical router chassis below.
 
-![](http://www.tutorialsweb.com/images/networking-images/junipe3.jpg)
+![](https://www.tutorialsweb.com/images/networking-images/junipe3.jpg)
 
-![](http://www.tutorialsweb.com/images/networking-images/junipe4.jpg)
+![](https://www.tutorialsweb.com/images/networking-images/junipe4.jpg)
 
 Front Panel
 
@@ -96,7 +96,7 @@ Each router consists of two major architectural components:
 
 Figure 1: Simplified Router Architecture:
 
-![](http://www.tutorialsweb.com/images/networking-images/router5.jpg)
+![](https://www.tutorialsweb.com/images/networking-images/router5.jpg)
 
 The routing engine constructs one or more routing tables, from these routing tables routing engine generates a table of active routes called forwarding table, this table is then copied into packet forwarding engine.
 
@@ -122,4 +122,4 @@ g. The routers support a variety of high-speed interfaces (including SONET/SDH, 
 
 h. High Availablility Options such as Graceful RE Switchover (GRES), and Bidirectional Forwarding Detection (BFD).
 
-http://www.tutorialsweb.com
+https://www.tutorialsweb.com
