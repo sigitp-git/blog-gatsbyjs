@@ -11,7 +11,7 @@ Here are the steps:
 
 1\. Install virtualization system on your Mac. I have tried the free Virtualbox but doesn't work with latest Mininet VM, just use [VMWare Fusion 6](https://www.vmware.com/products/fusion/features.html) instead (they provide 30 days trial version). Planning to buy the license later ;)
 
-2\. Download the Mininet VM here: [httpss://bitbucket.org/mininet/mininet-vm-images/downloads](httpss://bitbucket.org/mininet/mininet-vm-images/downloads) 
+2\. Download the Mininet VM here: [https://bitbucket.org/mininet/mininet-vm-images/downloads](https://bitbucket.org/mininet/mininet-vm-images/downloads) 
 
 3\. Unzip the VM, run the VM by opening the .ovf file. Here's snapshot of running Mininet VM
 

@@ -41,7 +41,7 @@ d. Petition. Setelah PERM di approve, PERM certificate akan diterima oleh lawyer
 
 e. Biometrics. Begitu petition disubmit, maka USCIS akan meminta applicant melakukan biometrics. Hasil biometrics akan dikirim ke FBI untuk di cek dan mereka akan decide apakah proses PR terus berjalan atau tidak.
 
-f. Decision. USCIS akan mendapat input dari FBI dan mempertimbangkan petition dari employer juga melihat kepada PERM certificate apakah PR akan di approve atau tidak. Bagusnya USCIS punya tracking system yang bisa notify applicant via email dan sistem web tracking berdasarkan receipt number yang akan didapat oleh applicant. Berikut link nya [httpss://egov.uscis.gov/cris/Dashboard/CaseStatus.do](httpss://egov.uscis.gov/cris/Dashboard/CaseStatus.do)
+f. Decision. USCIS akan mendapat input dari FBI dan mempertimbangkan petition dari employer juga melihat kepada PERM certificate apakah PR akan di approve atau tidak. Bagusnya USCIS punya tracking system yang bisa notify applicant via email dan sistem web tracking berdasarkan receipt number yang akan didapat oleh applicant. Berikut link nya [https://egov.uscis.gov/cris/Dashboard/CaseStatus.do](https://egov.uscis.gov/cris/Dashboard/CaseStatus.do)
 
 g. Card Production. Jika sudah di approve, akan ada mail ke rumah update tentang card production. Mereka bilang akan dikirim dalam 3 minggu tapi 2 hari sudah sampe :D
 

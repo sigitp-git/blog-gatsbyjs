@@ -11,7 +11,7 @@ Me myself has been using cellphone since 2004. I don't have many cellphones actu
 
 My first cellphone, Siemens C62. I bought this one using my commission money from [Mr. Prof. R.J. Widodo](https://rjwidodo.blogspot.com "Prof. R.J. Widodo") for helping him arranging international conference on Control Systems in my 3rd year at ITB. I worked for this event with my two other friends: Ari Pribadi and Dzikri Hakam.
 
-![](httpss://sigitp.files.wordpress.com/2011/01/1-siemens-c62.jpg)
+![](https://sigitp.files.wordpress.com/2011/01/1-siemens-c62.jpg)
 
 **GENERAL**
 

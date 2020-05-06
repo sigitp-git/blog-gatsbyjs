@@ -40,5 +40,5 @@ Reading materials:
 
 1. [mininet.org](https://mininet.org)
 2. [opennetworking.org](https://opennetworking.org)
-3. [SDN with OpenFlow](httpss://play.google.com/store/books/details?id=GSC8AQAAQBAJ&source=productsearch&utm_source=HA_Desktop_US&utm_medium=SEM&utm_campaign=PLA&pcampaignid=MKTAD0930BO1)
+3. [SDN with OpenFlow](https://play.google.com/store/books/details?id=GSC8AQAAQBAJ&source=productsearch&utm_source=HA_Desktop_US&utm_medium=SEM&utm_campaign=PLA&pcampaignid=MKTAD0930BO1)
 4. [opendaylight.org](https://www.opendaylight.org/)

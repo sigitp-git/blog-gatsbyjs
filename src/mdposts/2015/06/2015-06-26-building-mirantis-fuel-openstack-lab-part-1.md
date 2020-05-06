@@ -12,7 +12,7 @@ With the GUI front-end, Fuel can detect bare-metal hardware through L2 PXE boot 
 With Hypervisors (VirtualBox, VMWare) Fuel can be deployed on laptop (i7 and 16GB RAM recommended with min 150GB free disk space) for trials and development purposes. The requirements are as follow:
 
 - Hypervisor (Virtualbox, VMWare Fusion). This guide is based on VMWare Fusion on Mac (3 GHz i7, 16GB RAM), but the steps are similar for Virtualbox
-- Fuel 6.1 ISO for Fuel Master VM, [download from Mirantis Website](httpss://software.mirantis.com/openstack-download-form/)
+- Fuel 6.1 ISO for Fuel Master VM, [download from Mirantis Website](https://software.mirantis.com/openstack-download-form/)
     - (min 41 GB HDD), use 50GB VM Storage, 2 vCPU, 4GB RAM
     - 2 network adapters: 1 for NAT, 1 for host to host/host-only
     - first boot on Fuel ISO
@@ -30,7 +30,7 @@ With Hypervisors (VirtualBox, VMWare) Fuel can be deployed on laptop (i7 and 16G
 
 Network Topology for the 3 VMs:
 
-[![image001](httpss://sigitp.files.wordpress.com/2015/06/image001.png)](httpss://sigitp.files.wordpress.com/2015/06/image001.png)
+[![image001](https://sigitp.files.wordpress.com/2015/06/image001.png)](https://sigitp.files.wordpress.com/2015/06/image001.png)
 
 Note that Fuel Master and the bare-metal nodes for OpenStack deployment have to be in the same L2 network.
 
@@ -42,39 +42,39 @@ Any configuration changes on Fuel Master can’t be done by manual CLI, it has t
 
 Use arrows to move cursor and space to choose menu. Screenshots with explanations below:
 
-[![image003](httpss://sigitp.files.wordpress.com/2015/06/image003.png)](httpss://sigitp.files.wordpress.com/2015/06/image003.png)
+[![image003](https://sigitp.files.wordpress.com/2015/06/image003.png)](https://sigitp.files.wordpress.com/2015/06/image003.png)
 
 eth0 will be used as PXE boot interface, the IP above are default values that can be used for our lab. The gateway is 172.16.141.2 which is VMWare Fusion’s VMNET8 NAT IP gateway.
 
-[![image005](httpss://sigitp.files.wordpress.com/2015/06/image005.png)](httpss://sigitp.files.wordpress.com/2015/06/image005.png)
+[![image005](https://sigitp.files.wordpress.com/2015/06/image005.png)](https://sigitp.files.wordpress.com/2015/06/image005.png)
 
 eth1 uses 172.16.141.3 since it is on the range of VMWare Fusion’s NAT IP, the gateway will be 172.16.141.2 since it is the NAT IP gateway of VMWare Fusions VMNET8 interface range.
 
-[![image007](httpss://sigitp.files.wordpress.com/2015/06/image007.png)](httpss://sigitp.files.wordpress.com/2015/06/image007.png)
+[![image007](https://sigitp.files.wordpress.com/2015/06/image007.png)](https://sigitp.files.wordpress.com/2015/06/image007.png)
 
 PXE Setup uses default values, these IP pool will be allocated to the nodes/VMs for OpenStack deployment.
 
-[![image009](httpss://sigitp.files.wordpress.com/2015/06/image009.png)](httpss://sigitp.files.wordpress.com/2015/06/image009.png)
+[![image009](https://sigitp.files.wordpress.com/2015/06/image009.png)](https://sigitp.files.wordpress.com/2015/06/image009.png)
 
 Standard configuration for DNS, here Google’s public DNS is used
 
-[![image011](httpss://sigitp.files.wordpress.com/2015/06/image011.png)](httpss://sigitp.files.wordpress.com/2015/06/image011.png)
+[![image011](https://sigitp.files.wordpress.com/2015/06/image011.png)](https://sigitp.files.wordpress.com/2015/06/image011.png)
 
 Standard NTP configuration, here public ntp.org server is used
 
-[![image013](httpss://sigitp.files.wordpress.com/2015/06/image013.png)](httpss://sigitp.files.wordpress.com/2015/06/image013.png)
+[![image013](https://sigitp.files.wordpress.com/2015/06/image013.png)](https://sigitp.files.wordpress.com/2015/06/image013.png)
 
 enter your root password for your Fuel Master node
 
-[![image015](httpss://sigitp.files.wordpress.com/2015/06/image015.png)](httpss://sigitp.files.wordpress.com/2015/06/image015.png)
+[![image015](https://sigitp.files.wordpress.com/2015/06/image015.png)](https://sigitp.files.wordpress.com/2015/06/image015.png)
 
 Enter your Fuel User username and password; this login will also be used for GUI Fuel login
 
-[![image017](httpss://sigitp.files.wordpress.com/2015/06/image017.png)](httpss://sigitp.files.wordpress.com/2015/06/image017.png)
+[![image017](https://sigitp.files.wordpress.com/2015/06/image017.png)](https://sigitp.files.wordpress.com/2015/06/image017.png)
 
 Skip this shell login step
 
-[![image019](httpss://sigitp.files.wordpress.com/2015/06/image019.png)](httpss://sigitp.files.wordpress.com/2015/06/image019.png)
+[![image019](https://sigitp.files.wordpress.com/2015/06/image019.png)](https://sigitp.files.wordpress.com/2015/06/image019.png)
 
 Save and Quit to start Fuel Node configuration and installation.
 
